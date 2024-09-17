@@ -66,7 +66,7 @@ class _SplashScreenState extends State<SplashScreen>
               ),
               Align(
                   alignment: Alignment.center,
-                  child: Text('Covid-19/training app')),
+                  child: Text('Covid-19\ntraining app')),
             ],
           ),
         ),
